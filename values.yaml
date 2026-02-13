@@ -1,0 +1,2 @@
+image: vinodpindoria/vat:<+pipeline.sequenceId>
+replicas: 1
